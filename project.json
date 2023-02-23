@@ -41,7 +41,14 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0c695f9c-82d4-4534-9073-ae813b6e3a83",
+        "testCaseType": "TestCase",
+        "fileName": "TestCaseSHA.xaml"
+      }
+    ],
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
